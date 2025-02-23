@@ -8,5 +8,7 @@ font-size: 18px;
 border: 0px;
 }
 button{
-text-align: center "woman.jpeg"
+display:flex;
+align-items:center;
+justify-content:center img src ="woman.jpeg" 
 }
